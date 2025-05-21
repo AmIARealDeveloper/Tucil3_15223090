@@ -1,0 +1,15 @@
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.sourcelink.json
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\bin\Debug\net9.0\Tucil3_15223090.exe
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\bin\Debug\net9.0\Tucil3_15223090.deps.json
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\bin\Debug\net9.0\Tucil3_15223090.runtimeconfig.json
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\bin\Debug\net9.0\Tucil3_15223090.dll
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\bin\Debug\net9.0\Tucil3_15223090.pdb
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.dll
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\refint\Tucil3_15223090.dll
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.pdb
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\Tucil3_15223090.genruntimeconfig.cache
+C:\Users\Ignacio\Documents\IF2211\Tucil3_15223090\obj\Debug\net9.0\ref\Tucil3_15223090.dll
